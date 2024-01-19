@@ -15,8 +15,8 @@ Image Upload is an open source task, that includes two endpoint, /upload to uplo
 
 - Clone this repository [here](https://github.com/allisoncharles/image-upload.git).
 - Run npm install to install all dependencies
-- You can either work with the default mLab database or use your locally installed MongoDB. Do configure to your choice in the application entry file.
-- Create an .env file in your project root folder and add the following variables.
+- You can either work with the default mLab database or use your locally installed MongoDB.
+- Edit the .env file in your project root folder and including the following variables.
 
 1. SITEURL="http://localhost:8000" - localhost or the production url.
 2. MONGOURI="" - mongoDB connection url.
