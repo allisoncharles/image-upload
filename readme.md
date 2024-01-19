@@ -26,6 +26,9 @@ Image Upload is an open source task, that includes two endpoint, /upload to uplo
 - Run npm serve: to start the application.
 - Connect to the API on port 8000 or any port you specify in the env file.
 
+### API Usage
+Link to documentation - https://documenter.getpostman.com/view/32443611/2s9YsT5njR
+
 ### API Endpoints
 
 | HTTP Verbs | Endpoints             | Action                |
